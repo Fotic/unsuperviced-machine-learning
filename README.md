@@ -13,7 +13,7 @@ Experiment Environment
 ## 2. Prediction Models
 
 |Models|Accuracy|
-|:-------:|
+|:-------:|:-------:|
 |KNN|95.03%|
 |One-Class SVM|62.6%|
 |CNN|97.9%|
